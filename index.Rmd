@@ -13,4 +13,4 @@ output:
 
 Click the links in the menu above to look around.
 
-[alt text](media/front.jpg)
+![alt text](media/front.jpg)
